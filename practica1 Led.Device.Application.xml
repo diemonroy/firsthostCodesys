@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.10.0</Version>
+    <SymbolConfigObject version="3.5.10.10" runtimeid="3.5.10.10" libversion="3.5.10.0" settings="LayoutCalculator=OptimizedClientSideLayoutCalculator" />
+    <ProjectInfo name="practica1 Led" devicename="Device" appname="Application" />
+  </Header>
+  <TypeList />
+</Symbolconfiguration>
